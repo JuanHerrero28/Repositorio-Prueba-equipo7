@@ -1,2 +1,12 @@
+<<<<<<< HEAD
+
+JessicaBuitragoH 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
 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
-git nacho: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
+<<<<<<< HEAD
+token nacho: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
+=======
+=======
+Juan Manuel Herrero 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
+Token Leonardo Acosta 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
+>>>>>>> 76f5e9fa64f20ad672b996ff90bdfcdeed0730fe
+>>>>>>> 3b8ec367452ce53a6816d220458713827bc477e3
